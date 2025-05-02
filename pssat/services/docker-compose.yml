@@ -1,0 +1,16 @@
+
+services:
+  nginx:
+    container_name: nginx
+    build: ./nginx
+    ports:
+      - "80:80"
+    volumes:
+      - ../app:/usr/share/nginx/html
+    networks:
+      - satin
+    restart: always
+
+networks:
+  satin:
+    driver: bridge

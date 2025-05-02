@@ -1,0 +1,19 @@
+{
+	"branchs": [
+	  {
+		"title": "Merez Office",
+		"address": "İstanbul",
+		"phone": "+90 544 223 44 11"
+	  },
+	  {
+		"title": "Şube",
+		"address": "Ankara",
+		"phone": "+90 123 456 7890"
+	  },
+	  {
+		"title": "Şube",
+		"address": "İzmir",
+		"phone": "+90 123 456 7890"
+	  }
+	]
+}

@@ -1,0 +1,88 @@
+{
+	"products": [
+	  {
+		"id": 1,
+		"name": "Playsation 5",
+		"image": "../IMG/ps-5.jpg",
+		"description": "Playsation 5'inizi Satın Alalım",
+		"text": "Kullanmadığınız PS5’i hızlı ve güvenli şekilde elden çıkarın.Kutulu, temiz ve çalışır durumda olan cihazlar ekspertiz sonrası gerçek değerinde satın alınır.İlan vermekle uğraşmadan, takas ya da nakit ödeme seçenekleriyle kolayca satış yapın.Fiyat teklifi almak için bizimle hemen iletişime geçin."
+	  },
+	  {
+		"id": 2,
+		"name": "Playsation 4",
+		"image": "../IMG/ps-4.jpg",
+		"description": "Playsation 4'ünüzü Satın Alalım",
+		"text": "Kullanmadığınız PS4’ü hızlı ve güvenli şekilde elden çıkarın.Tüm modeller (Slim, Pro vs.) kutulu ve çalışır durumda ise ekspertiz sonrası gerçek değerinde satın alınır.İlan vermeden, takas ya da nakit ödeme seçenekleriyle pratik ve sorunsuz satış süreci.Fiyat teklifi almak için hemen iletişime geçin."
+	  },
+	  {
+		"id": 3,
+		"name": "Playsation 3",
+		"image": "../IMG/ps-3.jpg",
+		"description": "Playsation 3'ünüzü Satın Alalım",
+		"text": "Artık kullanmadığınız PS3’ü değerlendirin! Tüm modeller (Fat, Slim, Super Slim) temiz ve çalışır durumda ise ekspertiz sonrası değerinde satın alınır. İlanla uğraşmadan, takas veya nakit ödeme seçenekleriyle hızlı ve güvenli satış imkânı. Fiyat öğrenmek için hemen iletişime geçin."
+	  },
+	  {
+		"id": 4,
+		"name": "Xbox 360",
+		"image": "../IMG/xbox-360.jpg",
+		"description": "Xbox 360'ınızı satın alalım",
+		"text": "Kullanmadığınız Xbox 360’ı kolayca elden çıkarın!Slim ve diğer modeller, çalışır durumda ve temizse ekspertiz sonrası gerçek değerinde alınır.İlanla uğraşmadan, hızlı teklif ve nakit ödeme seçenekleriyle güvenli satış süreci.Detaylı bilgi ve teklif için hemen bizimle iletişime geçin."
+	  },
+	  {
+		"id": 5,
+		"name": "Xbox OneS",
+		"image": "../IMG/xbox-ones.jpg",
+		"description": "Xbox OneS'inizi satın alalım",
+		"text": "Xbox One veya One S modelinizi zahmetsizce elden çıkarın!Kutulu, temiz ve çalışır durumdaki cihazlar ekspertiz sonrası gerçek değerinde satın alınır.İlan açmadan, takas ya da nakit ödeme seçenekleriyle hızlı ve güvenli satış imkânı.Detaylı bilgi ve teklif almak için hemen iletişime geçin."
+	  },
+	  {
+		"id": 6,
+		"name": "Xbox Series S",
+		"image": "../IMG/xbox-series-s.jpg",
+		"description": "Xbox Series S' inizi satın alalım",
+		"text": "Xbox Series X / S cihazınızı hızlı ve güvenli şekilde elden çıkarın!Kutulu, temiz ve çalışır durumdaki konsollar ekspertiz sonrası değerinde satın alınır.İlanla uğraşmadan, takas veya nakit ödeme seçenekleriyle zahmetsiz satış süreci.Hemen iletişime geçin, anında teklif alın."
+	  },
+	  {
+		"id": 7,
+		"name": "PSP",
+		"image": "../IMG/PSP.jpg",
+		"description": "PSP'nizi satın alalım",
+		"text": "Kullanmadığınız PSP'nizi hızlı ve güvenli şekilde elden çıkarın!Tüm modeller (PSP 1000, 2000, 3000, Go) ekspertiz sonrası değerinde satın alınır.İlanla uğraşmadan, takas veya nakit ödeme seçenekleriyle kolayca satış yapın.Fiyat teklifi almak için hemen bizimle iletişime geçin."
+	  },
+	  {
+		"id": 157,
+		"name": "Ps Vita",
+		"image": "../IMG/ps-vita.jpg",
+		"description": "Ps Vita'nızı satın alalım",
+		"text": "Kullanmadığınız PS Vita'nızı hızlı ve güvenli şekilde elden çıkarın!Tüm modeller (PS Vita 1000, 2000) ekspertiz sonrası değerinde satın alınır.İlanla uğraşmadan, takas veya nakit ödeme seçenekleriyle kolay ve hızlı satış süreci.Fiyat teklifi almak için hemen bizimle iletişime geçin."
+	  },
+	  {
+		"id": 8,
+		"name": "Telefon",
+		"image": "../IMG/telefon.jpg",
+		"description": "Telefonunuzu satın alalım",
+		"text": "Kullanmadığınız telefonunuzu hızlı ve güvenli şekilde elden çıkarın!Çalışır durumda, temiz ve orijinal kutusunda olan cihazlar ekspertiz sonrası gerçek değerinde satın alınır.İlan açmadan, takas ya da nakit ödeme seçenekleriyle kolay ve hızlı satış süreci.Fiyat teklifi almak için hemen bizimle iletişime geçin."
+	  },
+	  {
+		"id": 9,
+		"name": "Tablet",
+		"image": "../IMG/tablet.jpg",
+		"description": "Tablet'inizi satın alalım",
+		"text": "Kullanmadığınız tabletinizi hızlı ve güvenli şekilde elden çıkarın!Çalışır durumda, temiz ve orijinal kutusunda olan cihazlar ekspertiz sonrası gerçek değerinde satın alınır.İlan açmadan, takas ya da nakit ödeme seçenekleriyle kolay ve hızlı satış süreci.Fiyat teklifi almak için hemen bizimle iletişime geçin."
+	  },
+	  {
+		"id": 10,
+		"name": "Monitor",
+		"image": "../IMG/monitor.jpg",
+		"description": "Monitor'ünüzü satın alalım",
+		"text": "Kullanmadığınız monitörünüzü hızlı ve güvenli şekilde elden çıkarın! Çalışır durumda, temiz ve orijinal kutusunda olan monitörler ekspertiz sonrası değerinde satın alınır.İlan açmadan, takas ya da nakit ödeme seçenekleriyle kolay ve hızlı satış süreci. Fiyat teklifi almak için hemen bizimle iletişime geçin."
+	  },
+	  {
+		"id": 11,
+		"name": "Televizyon",
+		"image": "../IMG/televizyon.jpg",
+		"description": "Televizyonunuzu satın alalım",
+		"text": "Kullanmadığınız televizyonunuzu hızlı ve güvenli şekilde elden çıkarın!Çalışır durumda, temiz ve orijinal kutusunda olan televizyonlar ekspertiz sonrası değerinde satın alınır.İlan açmadan, takas ya da nakit ödeme seçenekleriyle kolay ve hızlı satış süreci.Fiyat teklifi almak için hemen bizimle iletişime geçin."
+	  }
+	]
+}
