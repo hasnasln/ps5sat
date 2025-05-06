@@ -1,6 +1,7 @@
 {
 	"navigation": {
 	  "Anasayfa": "/",
-	  "Ürünler": "/products"
+	  "Ürünler": "/products",
+	  "İletişim": "/contact"
 	}
 }

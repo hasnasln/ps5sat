@@ -9,7 +9,7 @@ function getPathParamFromEnd(): string {
 
 async function fetchProductPreview(productId: number) {
 	try {
-		const response = await fetch(`http://192.168.1.101:3000/api/products/${productId}`);
+		const response = await fetch(`http://localhost:3000/api/products/${productId}`);
 		if (!response.ok) {
 			throw new Error('Network response was not ok');
 		}

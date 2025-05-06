@@ -60,6 +60,17 @@ app.get('/api/footer', (req, res) => {
   res.json(footer); // JSON formatında yanıt döner
 });
 
+app.get('/api/contact', (req, res) => {
+  const contact = readFileandReturn('SRC/contact.json'); // contact.json dosyasını oku
+  if (!contact) {
+    return res.status(500).json({ message: 'İletişim verisi alınamadı' }); // Hata durumunda 500 döner
+  }
+  console.log(contact);
+  res.json(contact); // JSON formatında yanıt döner
+});
+
+
+
 app.get('/api/products/:id', (req, res) => {
   const productId = parseInt(req.params.id, 10);
   const data = readFileandReturn('SRC/products.json')

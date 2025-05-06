@@ -1,0 +1,34 @@
+{
+	"contacts" : [
+	{
+		"name": "Gebze Sube",
+		"iletisim_no": "0262 751 00 00",
+		"address": "İzmit Yolu No: 1, Gebze, Kocaeli",
+		"lat_lng": "40.87756285060169,29.23429213325203"
+	},
+	{
+		"name": "Pendik Sube",
+		"iletisim_no": "0216 399 00 00",
+		"address": "Huzur Mah. Huzur Cad. No: 1, Kartal, İstanbul",
+		"lat_lng": "40.87756285060169,29.23429213325203"
+	},
+	{
+		"name": "Kartal Sube",
+		"iletisim_no": "0216 399 00 00",
+		"address": "Huzur Mah. Huzur Cad. No: 1, Maltepe, İstanbul",
+		"lat_lng": "40.87756285060169,29.23429213325203"
+	},
+	{
+		"name": "Maltepe Sube",
+		"iletisim_no": "0216 399 00 00",
+		"address": "Huzur Mah. Huzur Cad. No: 1, Pendik, İstanbul",
+		"lat_lng": "40.87756285060169,29.23429213325203"
+	},
+	{
+		"name": "Tuzla Sube",
+		"iletisim_no": "0216 399 00 00",
+		"address": "Huzur Mah. Huzur Cad. No: 1, Tuzla, İstanbul",
+		"lat_lng": "40.87756285060169,29.23429213325203"
+	}
+]
+}

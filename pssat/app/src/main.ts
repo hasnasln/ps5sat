@@ -288,7 +288,7 @@ export function createFooter(footer_data: FooterData): void {
 // Veriyi backend'den çekme fonksiyonu
 export async function fetchNavData() {
   try {
-    const response = await fetch('http://192.168.1.101:3000/api/navigation');  // Backend API endpoint
+    const response = await fetch('http://localhost:3000/api/navigation');  // Backend API endpoint
     if (!response.ok) {
       throw new Error('Nav verisi alınamadı');
     }
@@ -302,7 +302,7 @@ export async function fetchNavData() {
 
 async function fetchSlideData() {
   try {
-    const response = await fetch('http://192.168.1.101:3000/api/slides');  // Backend API endpoint
+    const response = await fetch('http://localhost:3000/api/slides');  // Backend API endpoint
     if (!response.ok) {
       throw new Error('Slide verisi alınamadı');
     }
@@ -316,7 +316,7 @@ async function fetchSlideData() {
 
 export async function fetchProductsData() {
   try {
-    const response = await fetch('http://192.168.1.101:3000/api/products');  // Backend API endpoint
+    const response = await fetch('http://localhost:3000/api/products');  // Backend API endpoint
     if (!response.ok)
       throw new Error('Ürün verisi alınamadı');
     const slideData = await response.json();  // JSON verisini al
@@ -330,7 +330,7 @@ export async function fetchProductsData() {
 
 async function fetchInfoData() {
   try {
-    const response = await fetch('http://192.168.1.101:3000/api/info');  // Backend API endpoint
+    const response = await fetch('http://localhost:3000/api/info');  // Backend API endpoint
     if (!response.ok)
       throw new Error('Info verisi alınamadı');
     const slideData = await response.json();  // JSON verisini al
@@ -343,7 +343,7 @@ async function fetchInfoData() {
 
 export async function fetchFooterData() {
   try {
-    const response = await fetch('http://192.168.1.101:3000/api/footer');  // Backend API endpoint
+    const response = await fetch('http://localhost:3000/api/footer');  // Backend API endpoint
     if (!response.ok)
       throw new Error('Footer verisi alınamadı');
     const slideData = await response.json();  // JSON verisini al
